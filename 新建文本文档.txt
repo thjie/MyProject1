@@ -1,0 +1,55 @@
+export JAVA_HOME=/usr/local/java/jdk1.8.0_131
+export TOMCAT_HOME=/usr/local/tomcat
+export CATALINA_HOME=/usr/local/tomcat
+export CLASS_PATH=$JAVA_HOME/bin/lib:$JAVA_HOME/jre/lib:$JAVA_HOME/lib/tool.jar
+export PATH=/usr/local/tomcat/bin
+
+难度2
+
+　　橡子+龟板+籼糯米=吉山红
+
+　　橡子+龟板+包壳=枸酱酒
+
+　　橡子+龟板+鹿茸=一柱天酒
+
+　　橡子+龟板+冬枣=山楂酒
+
+难度4
+
+　　籼稻+葡萄+包壳=剑南烧春酒
+
+　　籼稻+葡萄+籼糯米=醉白贡
+
+　　籼稻+葡萄+鹿茸=二仙酒
+
+　　籼稻+葡萄+冬枣=葡萄酒
+
+难度6
+
+　　橡子+冬枣+粳稻=五里稠
+
+　　橡子+冬枣+高粱=瑞露酒
+
+　　橡子+冬枣+犀角=五蛇酒
+
+　　橡子+冬枣+蜜桃=冬枣酒
+
+难度8
+
+　　鹿茸+籼糯米+高粱=西凤酒
+
+　　鹿茸+籼糯米+粳稻=红露
+
+　　鹿茸+籼糯米+犀角=八珍酒
+
+　　鹿茸+籼糯米+蜜桃=蜜桃酒
+
+难度9（四大名酒）
+
+　　杜梨+犀角+包壳=汾酒
+
+　　粳糯米+蜜桃+籼糯米=金华红
+
+　　龟壳花+粳稻+鹿茸=十全大补酒
+
+　　荔枝+高粱+冬枣=妃笑酒
